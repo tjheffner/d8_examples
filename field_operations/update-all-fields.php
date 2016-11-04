@@ -1,6 +1,6 @@
 <?php
 
-**
+/**
  * Sets all non-title fields to optional.
  */
 function hook_update_N() {

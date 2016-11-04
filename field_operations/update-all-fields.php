@@ -1,3 +1,5 @@
+<?php
+
 **
  * Sets all non-title fields to optional.
  */
